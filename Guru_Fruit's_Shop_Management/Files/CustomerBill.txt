@@ -1,0 +1,105 @@
+	
+* * * Bill * * * 
+name :djvbgf
+Date :123
+1 kg Mango X 500 = 500/-
+GrandTotal  :
+--------------------
+	
+* * * Bill * * * 
+name :Ram
+Date :19-12-2023
+2 kg Cherry X 1500 = 3000/-/n:
+--------------------
+	
+* * * Bill * * * 
+name :Laxmi
+Date :19-12-2023
+2 kg Cherry X 1500 = 3000/-
+
+--------------------
+	
+* * * Bill * * * 
+name :Dhawal
+Date :19-12-2023
+1 kg Cherry X 3000 = 3000/-
+GrgandTotal : 3000
+--------------------
+	
+* * * Bill * * * 
+name :dfghj
+Date :234
+1 kh Cherry X 4000 = 4000/-
+GrgandTotal : 40001 kg Apple X 2000 = 2000/-
+GrgandTotal : 6000
+--------------------
+	
+* * * Bill * * * 
+name :dfshg
+Date :1234
+2 kg Watermelon X 300 = 600/-
+GrandTotal : 600
+1 kh Watermelon X 400 = 400/-
+GrandTotal : 1000
+
+--------------------
+	
+* * * Bill * * * 
+name :jhhj
+Date :12-12-12
+1 kg Cherry X 3000 = 3000/-
+1 kg Kiwi X 4000 = 4000/-
+
+--------------------
+	
+* * * Bill * * * 
+name :fndkgfjfh
+Date :12-21-12
+2 kg Cherry X 3000 = 6000/-
+1 kg Papaya X 4000 = 4000/-
+
+--------------------
+	
+* * * Bill * * * 
+name :fsddfh
+Date :1234
+1 kg Cherry X 3000 = 3000/-
+GrandTotal : 3000
+1 kg Papaya X 6000 = 6000/-
+GrandTotal : 9000
+
+--------------------
+	
+* * * Bill * * * 
+name :sdfghjl;
+Date :1234567
+2 kg Cherry X 5000 = 10000/-
+2 kg Papaya X 4000 = 8000/-
+GrandTotal : 8000
+
+--------------------
+	
+* * * Bill * * * 
+name :Aradhana
+Date :17-12-2023
+5 kg Guava X 400 = 2000/-
+GrandTotal : 2000
+1 kg Cherry X 800 = 800/-
+GrandTotal : 2800
+
+--------------------
+	
+* * * Bill * * * 
+name :Bhole
+Date :19-12-2023
+2 kg MiniOrange X 400 = 800/-
+GrandTotal : 800
+
+--------------------
+	
+* * * Bill * * * 
+name :raj
+Date :2023-12-24
+GrandTotal : 0
+
+--------------------

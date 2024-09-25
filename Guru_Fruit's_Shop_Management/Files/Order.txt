@@ -1,0 +1,94 @@
+Name of the customer : Tara
+Contact Number : 123456789 
+ Delivery Date : 21-12-2023
+60 Apple X 500 = 15000
+
+GrandTotal : 1500040 Orange X 400 = 8000
+
+GrandTotal : 23000
+--------------------
+Name of the customer : Guru
+Contact Number : 1234 
+ Delivery Date : 23-12-2023
+40 Kiwi X 600 = 12000GrandTotal : 1200060 Kiwi X 700 = 21000GrandTotal : 33000
+--------------------
+Name of the customer : def
+Contact Number : 234 
+ Delivery Date : 1234
+12 cherry X 5000 = 60000/-
+GrandTotal : 6000013 Orange X 400 = 5200/-
+GrandTotal : 65200
+--------------------
+Name of the customer : asdfghj
+Contact Number : 12345 
+ Delivery Date : 1234567
+15 Orange X 400 = 6000/-
+13 Kiwi X 700 = 9100/-
+
+GrandTotal : 9100
+--------------------
+Name of the customer : sdfh
+Contact Number : 123456 
+ Delivery Date : 123456
+243 Otasdf X 455 = 110565/-
+
+GrandTotal : 110565
+--------------------
+Name of the customer : sadfg
+Contact Number : 23456 
+ Delivery Date : 123456
+12 Orandfgd X 4444 = 53328/-
+33 fg X 100 = 3300/-
+
+--------------------
+
+GrandTotal : 3300Name of the customer : wer
+Contact Number : 1234 
+ Delivery Date : 1234
+12 Orange X 4000 = 48000/-
+
+GrandTotal : 4800033 Cherry X 5000 = 165000/-
+
+GrandTotal : 213000
+--------------------
+Name of the customer : hjc
+Contact Number : 2345 
+ Delivery Date : 3456
+89 Orange X 35555 = 3164395/-
+
+GrandTotal : 316439555 Guava X 9000 = 495000/-
+
+GrandTotal : 3659395
+--------------------
+Name of the customer : Radhey
+Contact Number : 12345 
+ Delivery Date : 21-12-2023
+12 Guava X 400 = 4800/-
+
+GrandTotal : 48003 Per X 350 = 1050/-
+
+GrandTotal : 5850
+--------------------
+Name of the customer : Rudra
+Contact Number : 12345 
+ Delivery Date : 21-12-2023
+12 MiniOrange X 500 = 6000/-
+
+GrandTotal : 60003 Cherry X 1500 = 4500/-
+
+GrandTotal : 10500Advance : 500
+ Remaining Payment : 10000
+--------------------
+Name of the customer : sadfg
+Contact Number : 1234 
+ Delivery Date : 1234
+
+12 asdfg X 12444 = 149328/-
+
+GrandTotal : 149328
+13 asdfg X 15555 = 202215/-
+
+GrandTotal : 351543
+Advance : 10000
+ Remaining Payment : 341543
+--------------------
